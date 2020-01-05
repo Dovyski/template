@@ -1,4 +1,6 @@
-# More actions here: https://github.com/actions/starter-workflows
+# More actions here:
+# - https://github.com/actions/starter-workflows
+# - https://github.com/actions/example-services
 name: Main
 
 on: [push]
