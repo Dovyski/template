@@ -63,6 +63,6 @@ See all changes to this project in the [CHANGELOG.md](CHANGELOG.md) file.
 
 Below is a list of interesting links and similar projects:
 
-* [Other project] (https://github.com/project)
-* [Project inspiration] (https://github.com/project)
-* [Similar tool] (https://github.com/project)
+* [Other project](https://github.com/project)
+* [Project inspiration](https://github.com/project)
+* [Similar tool](https://github.com/project)
