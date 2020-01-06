@@ -1,7 +1,7 @@
 <p align="center">
-    <img width="400" height="200" src=".github/logo.png" title="Logo do projeto"><br />
-    <img src="https://img.shields.io/maintenance/yes/2019?style=for-the-badge" title="Status do projeto">
-    <img src="https://img.shields.io/travis/ccuffs/template?style=for-the-badge" title="Status do build">
+    <img width="400" height="200" src=".github/logo.png" title="Project logo"><br />
+    <img src="https://img.shields.io/maintenance/yes/2020?style=for-the-badge" title="Project status">
+    <img src="https://img.shields.io/github/workflow/status/Dovyski/template/Main?label=Build&logo=github&logoColor=white&style=for-the-badge" title="Build status">
 </p>
 
 # Title
@@ -16,8 +16,8 @@ Here you can place screenshots of the project. Also describe your features using
 
 * Easy integration;
 * Few dependencies;
-* Uses a beautiful template to organize `README`;
-* Great documentation and testing.
+* Beautiful template with a nice `README`;
+* Great documentation and testing?
 
 ## Getting started
 
@@ -42,14 +42,14 @@ This way users can copy and paste without reading the documentation (which is wh
 Usually the next steps teach you how to install and configure the project for use / development. Run:
 
 ```
-git clone https://github.com/ccuffs/template template
+git clone https://github.com/Dovyski/template template
 ```
 
 ## Contribute
 
-Your help is most welcome regardless of form! Check out the [CONTRIBUTING.md] file (CONTRIBUTING.md) for all ways you can contribute to the project. For example, [suggest a new feature] (https://github.com/ccuffs/template/issues/new?assignees=&labels=&template=feature_request.md&title=), [report a problem / bug] (https: // github.com/ccuffs/template/issues/new?assignees=&labels=bug&template=bug_report.md&title=), [submit a pull request] (https://github.com/ccuffs/hacktoberfest/blob/master/docs/tutorial -pull-request.md), or simply use the project and comment your experience.
+Your help is most welcome regardless of form! Check out the [CONTRIBUTING.md](CONTRIBUTING.md) file for all ways you can contribute to the project. For example, [suggest a new feature](https://github.com/Dovyski/template/issues/new?assignees=&labels=&template=feature_request.md&title=), [report a problem/bug](https://github.com/Dovyski/template/issues/new?assignees=&labels=bug&template=bug_report.md&title=), [submit a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests), or simply use the project and comment your experience. You are encourage to participate as much as possible, but stay tuned to the [code of conduct](./CODE_OF_CONDUCT.md) before making any interaction with other community members.
 
-See the [ROADMAP.md] file (ROADMAP.md) for an idea of how the project should evolve.
+See the [ROADMAP.md](ROADMAP.md) file for an idea of how the project should evolve.
 
 ## License
 

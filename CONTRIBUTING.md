@@ -37,9 +37,8 @@ We ask that you **do not make the fault public** for the safety of everyone usin
 
 Another great way to contribute is by suggesting improvements to the project, e.g. how it is structured. If you have any idea how we can improve the project, follow these steps:
 
-1. Make sure your idea is not already being addressed in our
-   [roadmap] (./ROADMAP.md);
-2. Also make sure the idea is not already listed in the [issues] (https://github.com/Dovyski/template/issues);
+1. Make sure your idea is not already being addressed in our [roadmap](./ROADMAP.md);
+2. Also make sure the idea is not already listed in the [issues](https://github.com/Dovyski/template/issues);
 3. Defend your idea and convincingly  explain why it should be
    followed. Here are some questions to consider:
    1. Will more users of the project benefit from this idea or only yourself?
@@ -68,21 +67,17 @@ Ideally, all issues should have a clear action plan before any
 code is written. We know that this is often not possible. However, try to explain what you want to achieve and how you intend to do it. Your ideas will receive feedback from the community, so we can ensure no work is wasted.
 
 Issues under discussion should be labelled **discussion** indicating that that issue needs input and feedback from members of the
-community. We encourage you to participate as much as possible but stay tuned to our [code of conduct](./ CODE_OF_CONDUCT.md) before making any interaction with other community members.
+community. We encourage you to participate as much as possible but stay tuned to our [code of conduct](./CODE_OF_CONDUCT.md) before making any interaction with other community members.
 
 ### Pull requests
 
-Once you have a relatively clear plan of action, you should be ready to
-contribute any code. To do this, fork the project and work on top of
-a new branch based on `master`. It is a common practice to name your new branch with a named related to the feature or bug you are fixing, e.g. `fix-issue-45` or `improved-gui`. To learn more about
-pull requests and how they work, see [this link[(https://help.github.com/articles/about-pull-requests/).
+Once you have a relatively clear plan of action, you should be ready to contribute any code. To do this, fork the project and work on top of a new branch based on the `dev` branch. It is a common practice to name your new branch with something related to the feature or bug you are fixing, e.g. `fix-issue-45` or `improved-gui`. To learn more about pull requests and how they work, see [this link](https://help.github.com/articles/about-pull-requests/).
 
 Before you open your PR (pull request) make sure that:
 
 - Your PR solves a single issue. If you want to do more than one thing, split into multiple PRs;
-- Your code is functional (or something close to it). Provide testing if
-  possible;
-- The messages from your commits are clear and describe the job well. For more tips on writing proper commit messages, see [this guide] (https://chris.beams.io/posts/git-commit/).
+- Your code is functional (or something close to it). Provide testing if possible;
+- The messages from your commits are clear and describe the job well. For more tips on writing proper commit messages, see [this guide](https://chris.beams.io/posts/git-commit/).
 
 ### Other ways to contribute
 
@@ -100,12 +95,12 @@ Have you thought of any other way to contribute? Share it with us!
 
 This document was written with the help of other similar documents used in other communities. We highlight:
 
-- [project] (https://github.com/portabilis/project/blob/master/code-of-conduct.md)
-- [Metabase] (https://github.com/metabase/metabase/blob/master/docs/contributing.md)
-- [Ghost] (https://docs.ghost.org/v1/docs/contributing)
-- [Ember.js] (https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md)
-- [Ruby on Rails] (https://github.com/rails/rails/blob/master/CONTRIBUTING.md)
-- [William Espindola's Proposals] (https://github.com/portabilis/project/issues/201)
-- [i-educate] (https://github.com/portabilis/i-educar)
+- [project](https://github.com/portabilis/project/blob/master/code-of-conduct.md)
+- [Metabase](https://github.com/metabase/metabase/blob/master/docs/contributing.md)
+- [Ghost](https://docs.ghost.org/v1/docs/contributing)
+- [Ember.js](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md)
+- [Ruby on Rails](https://github.com/rails/rails/blob/master/CONTRIBUTING.md)
+- [William Espindola's Proposals](https://github.com/portabilis/project/issues/201)
+- [i-educate](https://github.com/portabilis/i-educar)
 
 ... among others!
