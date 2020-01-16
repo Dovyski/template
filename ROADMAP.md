@@ -2,7 +2,7 @@
 
 This file provides an overview of the direction this project is heading. The roadmap is organized in steps that focus on a specific theme,for instance, UX.
 
-## [M1 - Basic Infrastructure] (https://github.com/Dovyski/template/milestone/1)
+## [M1 - Basic Infrastructure](https://github.com/Dovyski/template/milestone/1)
 
 In this phase of the project the focus is on X, Y and Z. The expected features are:
 
@@ -11,7 +11,7 @@ In this phase of the project the focus is on X, Y and Z. The expected features a
 - Ability to save things.
 - Etc.
 
-## [M2 - User Experience] (https://github.com/Dovyski/template/milestone/2)
+## [M2 - User Experience](https://github.com/Dovyski/template/milestone/2)
 
 In this phase of the project the focus is on A, B and C. The expected features are:
 
