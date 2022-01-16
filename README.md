@@ -6,9 +6,9 @@
 
 # Title
 
-Project description goes here. This description is usually two to three lines long. It should give an overview of what the project is, eg technology used, philosophy of existence, what problem it is trying to solve, etc. If you need to write more than 3 lines of description, create subsections.
+Project description goes here. This description is usually two to three lines long. It should give an overview of what the project is, e.g. technology used, philosophy of existence, what problem it is trying to solve, etc. If you need to write more than 3 lines of description, create subsections.
 
-> **NOTICE:** put here a message that is very relevant to users of the project, if any.
+> **NOTICE:** put here a message that is very relevant to the users of the project, if any.
 
 ## ✨Features
 
@@ -16,7 +16,7 @@ Here you can place screenshots of the project. Also describe your features using
 
 * ✔️ Easy integration;
 * 🥢 Few dependencies;
-* 🎨 Beautiful template-english with a nice `README`;
+* 🎨 Beautiful template with a nice `README`;
 * 🖖 Great documentation and testing?
 
 ## 🚀 Getting started
@@ -49,7 +49,7 @@ git clone https://github.com/Dovyski/template template
 
 Your help is most welcome regardless of form! Check out the [CONTRIBUTING.md](CONTRIBUTING.md) file for all ways you can contribute to the project. For example, [suggest a new feature](https://github.com/Dovyski/template/issues/new?assignees=&labels=&template-english=feature_request.md&title=), [report a problem/bug](https://github.com/Dovyski/template/issues/new?assignees=&labels=bug&template-english=bug_report.md&title=), [submit a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests), or simply use the project and comment your experience. You are encourage to participate as much as possible, but stay tuned to the [code of conduct](./CODE_OF_CONDUCT.md) before making any interaction with other community members.
 
-See the [ROADMAP.md](ROADMAP.md) file for an idea of how the project should evolve.
+See the [ROADMAP.md](ROADMAP.md) file for an idea of how the project should evolve. Additionally, check the [ARCHITECTURE.md](ARCHITECTURE.md) file for an overview of the project's architecture.
 
 ## 🎫 License
 
